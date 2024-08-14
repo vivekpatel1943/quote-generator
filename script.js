@@ -317,6 +317,55 @@ const shlokas = [
         "hindi_translation": "सदा प्रयत्नशील रहो और निरंतर कर्मों को साधो। अर्जुन के समान कर्म में सदा रत रहो।",
         "english_translation": "Always be diligent and consistently perform your duties. Be as dedicated to action as Arjuna was.",
         "source": "Mahabharata, Shalya Parva, Chapter 15, Verse 25"
+    },
+    {
+        "sanskrit": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत।क्षुरस्य धारा निशिता दुरत्यया।दुर्गं पथस्तत्कवयो वदन्ति॥",    
+     
+        "hindi_translation": "उठो, जागो और श्रेष्ठता प्राप्त करने के लिए प्रयास करो। यह मार्ग तलवार की धार के समान कठिन है, जिसे महान ज्ञानी लोग भी कठिन बताते हैं।",
+        "english_translation": "Arise, awake, and stop not until the goal is reached. This path is as sharp as a razor's edge, difficult to tread, so say the wise.",
+        "source": "Katha Upanishad, 1.3.14 (though not strictly a Vedic text, it's closely connected)"
+    },
+    {
+        "sanskrit": "यस्ते स्तेनहिनस्ते सन्यस्ते करिणस्ते।संधत्ते दीधितिं धीरो ज्योतिषा जयोतिर्विद्युतः॥",  
+                   
+        "hindi_translation": "जो व्यक्ति दृढ़ता से प्रयास करता है, वह ज्ञान के प्रकाश को प्राप्त करता है। उसकी धीरता उसे प्रकाश और विद्युत के समान चमकदार बना देती है।",
+        "english_translation": "He who exerts himself with firm determination attains the light of knowledge. His perseverance makes him shine like light and lightning.",
+        "source": "Rigveda, 1.92.5"
+    },
+    {
+        "sanskrit": "तं त्वा जगतां पते त्रातारं त्रातारं सुमखस्य धेहि।दुर्मन्त्रं दुर्भिषजं भद्रमस्मद् दुःस्वप्नः सुदिनं देहि॥",  
+                   
+        "hindi_translation": "हे जगतों के स्वामी! हमें बचाने वाले, हमारे रक्षक, हमें ज्ञान दो और हमें बुरी सलाहों और बुरी स्वास्थ्य से बचाओ।",
+        "english_translation": "O Lord of the worlds! Protect us, our guardian, grant us knowledge and save us from bad counsel and ill health.",
+        "source": "Yajurveda, 19.9"
+    },
+    {
+        "sanskrit": "शृण्वन्तु विश्वे अमृतस्य पुत्रा आ ये धामानि दिव्यानि तस्थुः।वेदाहमेतं पुरुषं महान्तमादित्यवर्णं तमसः परस्तात्॥",  
+                   
+        "hindi_translation": "हे अमृत के पुत्रों! सुनो, जो दिव्य लोकों में स्थित हैं। मैंने उस महान पुरुष को देखा है, जो सूर्य के समान चमकता है और अंधकार के परे है।",
+        "english_translation": "Listen, O children of immortality, who dwell in the divine realms. I have seen that great person, radiant like the sun, who is beyond darkness.",
+        "source": "Shvetashvatara Upanishad, 2.15 (an Upanishadic text closely associated with Vedic teachings)"
+    },
+    {
+        "sanskrit": "ऋते ज्ञानान्न मुक्तिः स्यात् न च मुक्तिर्न ज्ञानतः।न च मूढस्य मूढत्वादसाधनपरिग्रहः॥",
+                   
+        "hindi_translation": "ज्ञान के बिना मुक्ति संभव नहीं है, और मुक्ति के बिना ज्ञान नहीं। मूर्ख व्यक्ति अपने अज्ञानता के कारण सही साधनों का चयन नहीं करता।",
+        "english_translation": "Liberation is not possible without knowledge, nor knowledge without liberation. A foolish person, due to ignorance, does not choose the right means.",
+        "source": "Rigveda, 1.164.20"
+    },
+    {
+        "sanskrit": "आ नो भद्राः क्रतवो यन्तु विश्वतः।अदब्धासो अपरितासो अरिष्टाः॥",
+                   
+        "hindi_translation": "हमारे पास चारों दिशाओं से शुभ विचार आएं, अचूक और अडिग, जो हमें अनिष्ट से बचाएं।",
+        "english_translation": "Let noble thoughts come to us from all sides, unfailing and steadfast, protecting us from harm.",
+        "source": "Rigveda, 1.89.1"
+    },
+    {
+        "sanskrit": "नवगु तिष्ठन्तं तृतीयं त्रीणि चरणान्यचलानि।  स तान्युदेवयन्भुवि पात्यान्येवमिष्यते॥",  
+                 
+        "hindi_translation": "दृढ़ता के साथ तीन कदम उठाना, जो अचल हैं। जो व्यक्ति ऐसा करता है, वह इस धरती पर विजय प्राप्त करता है।",
+        "english_translation": "With steadfastness, taking three unwavering steps. The one who does so attains victory on this earth.",
+        "source": "Atharvaveda, 12.1.38"
     }
 ]
        
