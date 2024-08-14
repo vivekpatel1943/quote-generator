@@ -1,0 +1,40 @@
+body{
+    height: 80vh;
+    width: 100%;
+}
+
+#spinContainer{
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#spinContainer #spinner{
+    transition: transform 3s ease;
+}
+
+#spinContainer .spin{
+    transform: rotate(1667deg);
+    /* display: none; */
+}
+
+.shlokaContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 2rem;
+    margin-top: 3rem;
+
+}
+
+.shlokaContainer .spinTheWheelButton{
+    background-color: rgb(255, 119, 0);
+    border: none;
+    border-radius: 2px;
+    padding: 0.5rem;
+    font-size:  medium;
+    color: white;
+    
+}
